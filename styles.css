@@ -1,1 +1,58 @@
 /*  your css code here. If applicable */
+.hero{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 900px;
+	height: 200px;
+}
+
+.hero>img{
+	object-fit: cover;
+	width: 500px;
+	height: 300px;
+	padding: 10px;
+	flex: 3;
+}
+#card{
+	padding: 20px;
+	height: 200px;
+	align-items: center;
+	flex:1;
+}
+#button{
+	color: white;
+	background-color: red;
+	border-radius:5px;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
